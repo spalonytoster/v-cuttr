@@ -1,0 +1,21 @@
+{
+  "name": "v-cuttr",
+  "homepage": "https://github.com/spalonytoster/v-cuttr",
+  "authors": [
+    "Maciej Posłuszny <xmachiei@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "rangeslider-videojs": "https://github.com/danielcebrian/rangeslider-videojs"
+  }
+}
